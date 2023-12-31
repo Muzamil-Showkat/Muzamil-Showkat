@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muzamil-Showkat](https://github.com/Muzamil-Showkat)
 
-- 💬 Ask me about **MySql, Python,ML,Tableau**
+- 💬 Ask me about **MySql, Python,ML,Tableau, Computer Vision**
 
 - 📫 How to reach me **https://www.linkedin.com/in/muzamil-showkat-/**
 
